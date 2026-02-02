@@ -1,0 +1,7 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="verde_conectado">#00FF00</color>
+    <color name="rojo_desconectado">#FF0000</color>
+    <color name="gris_conectar">#CCCCCC</color>
+</resources>
